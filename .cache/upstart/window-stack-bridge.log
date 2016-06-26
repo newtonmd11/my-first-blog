@@ -1,0 +1,3 @@
+QDBusConnection: name 'org.ayatana.bamf' had owner '' but we thought it was ':1.4'
+Could not get window paths QDBusError("org.freedesktop.DBus.Error.Spawn.ChildExited", "Process org.ayatana.bamf exited with status 1")
+Could not get window ID for "/org/ayatana/bamf/window/67108914" QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/67108914")

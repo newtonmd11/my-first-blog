@@ -1,0 +1,18 @@
+
+** (unity-settings-daemon:1412): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:1412): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(unity-settings-daemon:1412): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(unity-settings-daemon:1412): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(unity-settings-daemon:1412): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+
+(unity-settings-daemon:1412): GLib-GObject-WARNING **: g_object_notify: object class 'UpDevice' has no property named 'g-name-owner'
+
+(unity-settings-daemon:1412): GLib-GObject-WARNING **: g_object_notify: object class 'UpDevice' has no property named 'g-name-owner'
+
+** (unity-settings-daemon:1479): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:1479): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'

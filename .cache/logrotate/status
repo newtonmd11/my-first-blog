@@ -1,0 +1,14 @@
+logrotate state -- version 2
+"/home/matthew/.cache/upstart/gpg-agent.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/unity-panel-service.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/upstart-event-bridge.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/update-notifier-cds.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/window-stack-bridge.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/at-spi2-registryd.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/hud.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/dbus.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/indicator-sound.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/ssh-agent.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/unity7.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/gnome-keyring-ssh.log" 2016-6-24-21:0:0
+"/home/matthew/.cache/upstart/unity-settings-daemon.log" 2016-6-24-21:0:0

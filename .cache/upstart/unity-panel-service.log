@@ -1,0 +1,98 @@
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1431): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+** (unity-panel-service:1500): WARNING **: Unable to get org.ayatana.bamf matcher: Error calling StartServiceByName for org.ayatana.bamf: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.ayatana.bamf exited with status 1
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_set_default_timeout: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+(unity-panel-service:1500): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-panel-service:1500): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(unity-panel-service:1500): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-panel-service:1500): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(unity-panel-service:1500): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-panel-service:1500): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(unity-panel-service:1500): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-panel-service:1500): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(unity-panel-service:1500): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-panel-service:1500): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(unity-panel-service:1500): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-panel-service:1500): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to fetch windows paths: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to get active window: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to get active window: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to get application for xid 54526175: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to get application for xid 54526175: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
+
+** (unity-panel-service:1500): CRITICAL **: bamf_view_peek_children: assertion 'BAMF_IS_VIEW (view)' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to get application for xid 54526175: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to get application for xid 54526175: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
+
+** (unity-panel-service:1500): CRITICAL **: bamf_view_peek_children: assertion 'BAMF_IS_VIEW (view)' failed
+
+(unity-panel-service:1500): GLib-GIO-CRITICAL **: g_dbus_proxy_call_sync_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+** (unity-panel-service:1500): WARNING **: Failed to get active window: 
+
+(unity-panel-service:1500): GLib-CRITICAL **: g_error_free: assertion 'error != NULL' failed
